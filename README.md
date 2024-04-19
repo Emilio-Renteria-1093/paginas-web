@@ -31,7 +31,7 @@ tr:hover {background-color: coral;}
     <th>Points</th>
   </tr>
   <tr>
-    <td>Eilio Gael</td>
+    <td>Emilio Gael</td>
     <td>Renteria Rayo</td>
     <td>4-I</td>
   </tr>
